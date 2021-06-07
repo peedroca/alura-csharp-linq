@@ -1,3 +1,3 @@
-# Alura-TIPOCURSO
+# Alura-csharp
 
-Nome do Curso - NOMECURSO
+Nome do Curso - C# parte 8: List, lambda, linq
